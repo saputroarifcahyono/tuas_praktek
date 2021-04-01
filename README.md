@@ -13,7 +13,12 @@ BODY
 baris yang berisi konten pada web,seperti Heading,Div,image,Footer dan sebagainya
 
  ### belajar mengisi tag
-  #### membuatparagraf
-
+ ini adalah contoh tag yang saya buat dari latihan tugas 1
 
 ![Gambar 1](ss/12345.png)
+
+### hasil latihan 
+
+![Gambar 2](ss/123.png)
+
+Ini adalah hasil praktek saya di tugas 1 
